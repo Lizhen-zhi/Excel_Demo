@@ -1,2 +1,2 @@
-# Excel_Function_tips
-记录一些excel函数
+# Excel_demo
+记录一下自己学习excel的demo
